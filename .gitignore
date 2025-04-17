@@ -1,0 +1,14 @@
+#DeepFashion image data
+data/deepfashion/Img/
+data/deepfashion/Eval/
+data/deepfashion/Anno_*/ 
+data/deepfashion/*.zip 
+
+
+models/*.h5
+
+__pycache__/
+*.pyc
+
+
+.ipynb_checkpoints/
