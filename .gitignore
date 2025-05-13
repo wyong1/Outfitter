@@ -6,7 +6,7 @@ data/deepfashion/*.zip
 data/fashion_grouped
 data/raw
 
-models/*.keras
+# models/*.keras
 
 __pycache__/
 *.pyc
