@@ -3,7 +3,7 @@ data/deepfashion/Img/
 data/deepfashion/Eval/
 data/deepfashion/Anno_*/ 
 data/deepfashion/*.zip 
-data/fashion_grouped
+# data/fashion_grouped
 data/raw
 
 # models/*.keras
